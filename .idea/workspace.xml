@@ -57,12 +57,21 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/target/Maint__Monitor-1.0-SNAPSHOT-jar-with-dependencies.jar" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Unnamed">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Maint__Monitor" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MainTest.test_Given_WeWantMessage_When_WeGetMessage_Then_MessageSouldBeHello" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Maint__Monitor" />
       <option name="PACKAGE_NAME" value="" />
@@ -73,6 +82,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Unnamed" type="JarApplication" nameIsGenerated="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/target/Maint__Monitor-1.0-SNAPSHOT-jar-with-dependencies.jar" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\Rei Hoxha\Documents\Maint__Monitor" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Unnamed" />
+      <item itemvalue="JAR Application.Unnamed" />
+      <item itemvalue="JUnit.MainTest.test_Given_WeWantMessage_When_WeGetMessage_Then_MessageSouldBeHello" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.MainTest.test_Given_WeWantMessage_When_WeGetMessage_Then_MessageSouldBeHello" />
@@ -107,38 +127,46 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="121" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1620742115659" />
-    <state x="143" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1620905924077">
+    <state x="143" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1620914320857">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="143" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1620905924077" />
-    <state x="371" y="130" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1620905717542">
+    <state x="143" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1620914320857" />
+    <state x="371" y="130" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1620914317626">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="371" y="130" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1620905717542" />
+    <state x="371" y="130" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1620914317626" />
     <state x="399" y="200" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1620744459376">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="399" y="200" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1280.680@0.0.1280.680" timestamp="1620744459376" />
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1620905926464">
+    <state x="468" y="95" key="FileChooserDialogImpl" timestamp="1620913748285">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1620905926464" />
-    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1620905926464">
+    <state x="468" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1620913748285" />
+    <state width="1237" height="211" key="GridCell.Tab.0.bottom" timestamp="1620914495352">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1620905926464" />
-    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1620905926464">
+    <state width="1237" height="211" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1620914495352" />
+    <state width="1237" height="211" key="GridCell.Tab.0.center" timestamp="1620914495352">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1620905926464" />
-    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1620905926464">
+    <state width="1237" height="211" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1620914495352" />
+    <state width="1237" height="211" key="GridCell.Tab.0.left" timestamp="1620914495352">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1620905926464" />
+    <state width="1237" height="211" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1620914495352" />
+    <state width="1237" height="211" key="GridCell.Tab.0.right" timestamp="1620914495352">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="211" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1620914495352" />
     <state x="171" y="0" key="Maven.ArtifactSearchDialog" timestamp="1620744106482">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="171" y="0" key="Maven.ArtifactSearchDialog/0.0.1280.680@0.0.1280.680" timestamp="1620744106482" />
+    <state x="452" y="119" key="chooseDestDirectoryDialog" timestamp="1620913922219">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="452" y="119" key="chooseDestDirectoryDialog/0.0.1280.680@0.0.1280.680" timestamp="1620913922219" />
     <state x="91" y="2" key="new project wizard" timestamp="1620852626489">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
