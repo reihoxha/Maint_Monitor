@@ -11,7 +11,7 @@ public class Main {
         ResourceConfig rc = new ResourceConfig()
                 .packages("maintmonitor.controllers");
         HttpServer server = JdkHttpServerFactory.createHttpServer(URI.create("http://localhost:8080/"), rc);
-        System.out.println("server started");
+        System.out.println("server started.");
 
         try {
             System.in.read();
