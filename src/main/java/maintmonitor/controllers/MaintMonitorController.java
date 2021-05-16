@@ -13,6 +13,9 @@ import java.net.URI;
 @Path("/api/maintenanceMode")
 public class MaintMonitorController {
     static String sourcestring = "-"; //VARIABLE DEFINED FOR THE MONITOR TO TURN GREEN
+
+
+
     @GET
     @Path("/")
     @Produces(MediaType.TEXT_PLAIN)
@@ -37,6 +40,10 @@ public class MaintMonitorController {
     public String resetStatus(){
         sourcestring = "-";
         return sourcestring;
+    }
+    public String getSourcestring(){
+        return sourcestring;
+
     }
 
 }
